@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
+    <center><img src="https://png.pngtree.com/png-vector/20190623/ourlarge/pngtree-hospitalbuildingclinicmedical-abstract-circle-background-f-png-image_1491340.jpg" alt=""></center>
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
 </template>
